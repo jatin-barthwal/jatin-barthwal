@@ -62,6 +62,7 @@ Analyzed multi-year vehicle sales data to uncover sales trends, brand performanc
 🏅 Python for Data Science - 4Achievers  
 🏅 Python (Basic to Advanced)  
 🏅 Excel (Basic to Advanced)
+🏅 Data Analytics Training Program (6 Months) – Geekonik
 
 ---
 
